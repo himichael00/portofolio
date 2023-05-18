@@ -1096,6 +1096,10 @@ body {
     margin-top: 2.25rem;
   }
 
+  .lg\:mt-4 {
+    margin-top: 1rem;
+  }
+
   .lg\:block {
     display: block;
   }
